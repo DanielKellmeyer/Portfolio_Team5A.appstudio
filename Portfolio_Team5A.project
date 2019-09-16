@@ -18,16 +18,8 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "beginning", 
-            "beginning.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
-            "Template", 
-            "Template.json"
+            "TheBigAdventure", 
+            "TheBigAdventure.json"
           ]
         }
       ], 
@@ -43,7 +35,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "beginning", 
+      "firstform": "TheBigAdventure", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
