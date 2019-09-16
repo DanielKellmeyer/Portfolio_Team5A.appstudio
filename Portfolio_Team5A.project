@@ -21,6 +21,14 @@
             "beginning", 
             "beginning.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Template", 
+            "Template.json"
+          ]
         }
       ], 
       "configxml": null, 
